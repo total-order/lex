@@ -4,12 +4,13 @@
 Lexicographical comparison functions for JavaScript.
 See [docs](https://total-order.github.io/lex/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+```js
+import { reversed } from '@total-order/reversed';
+import { lexicographical } from '@total-order/lex' ;
+import { increasing } from '@total-order/primitive';
+let order = reversed( lexicographical( increasing ) ) ;
+order( [ 1 , 1 ] , [ 1 , 2 ] )  >  0 ; // true
+```
 
 [![License](https://img.shields.io/github/license/total-order/lex.svg)](https://raw.githubusercontent.com/total-order/lex/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@total-order/lex.svg)](https://www.npmjs.org/package/@total-order/lex)
@@ -25,3 +26,7 @@ See [docs](https://total-order.github.io/lex/index.html).
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/total-order/lex.svg)](https://codeclimate.com/github/total-order/lex/trends/technical_debt)
 [![Documentation](https://total-order.github.io/lex/badge.svg)](https://total-order.github.io/lex/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@total-order/lex)](https://bundlephobia.com/result?p=@total-order/lex)
+
+## :scroll: References
+
+  - https://en.wikipedia.org/wiki/Lexicographical_order
