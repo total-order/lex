@@ -5,9 +5,9 @@ Lexicographical comparison functions for JavaScript.
 See [docs](https://total-order.github.io/lex/index.html).
 
 ```js
-import { reversed } from '@total-order/reversed';
+import { reversed } from '@total-order/reversed' ;
 import { lexicographical } from '@total-order/lex' ;
-import { increasing } from '@total-order/primitive';
+import { increasing } from '@total-order/primitive' ;
 let order = reversed( lexicographical( increasing ) ) ;
 order( [ 1 , 1 ] , [ 1 , 2 ] )  >  0 ; // true
 ```
