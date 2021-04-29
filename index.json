@@ -1,0 +1,989 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/colexicographical.js",
+    "content": "/**\n * Generates a binary colexicographical comparator\n * from a binary comparator.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n *\n * compare( a, b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n * compare should express an increasing ordering\n */\n\nexport default function colexicographical(compare) {\n\t/**\n\t * Compares 2 arrays a and b colexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tconst m = a.length;\n\t\tconst n = b.length;\n\n\t\tconst length = Math.min(m, n);\n\n\t\tfor (let i = 1; i <= length; ++i) {\n\t\t\tconst d = compare(a[m - i], b[n - i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn m - n;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/colexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "colexicographical",
+    "memberof": "src/colexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/colexicographical.js~colexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/colexicographical.js",
+    "importStyle": "colexicographical",
+    "description": "Generates a binary colexicographical comparator\nfrom a binary comparator.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n\ncompare( a, b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b\n\ncompare should express an increasing ordering",
+    "lineNumber": 15,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/fixed/fixedcolexicographical.js",
+    "content": "/**\n * Generates a binary colexicographical comparator for fixed size arrays.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n *\n * compare( a , b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n */\n\nexport default function fixedcolexicographical(compare, length) {\n\t/**\n\t * Compares 2 fixed size arrays a and b of size len colexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tfor (let i = length; i--; ) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/fixed/fixedcolexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "fixedcolexicographical",
+    "memberof": "src/fixed/fixedcolexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fixed/fixedcolexicographical.js~fixedcolexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/fixed/fixedcolexicographical.js",
+    "importStyle": "fixedcolexicographical",
+    "description": "Generates a binary colexicographical comparator for fixed size arrays.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n\ncompare( a , b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "length",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/fixed/fixedlexicographical.js",
+    "content": "/**\n * Generates a binary lexicographical comparator for fixed size arrays.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order\n *\n * compare( a , b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n */\n\nexport default function fixedlexicographical(compare, length) {\n\t/**\n\t * Compares 2 fixed size arrays a and b of size len lexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tfor (let i = 0; i < length; ++i) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/fixed/fixedlexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "fixedlexicographical",
+    "memberof": "src/fixed/fixedlexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fixed/fixedlexicographical.js~fixedlexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/fixed/fixedlexicographical.js",
+    "importStyle": "fixedlexicographical",
+    "description": "Generates a binary lexicographical comparator for fixed size arrays.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order\n\ncompare( a , b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "length",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as fixedcolexicographical} from './fixed/fixedcolexicographical.js';\nexport {default as fixedlexicographical} from './fixed/fixedlexicographical.js';\nexport {default as quasicolexicographical} from './quasi/quasicolexicographical.js';\nexport {default as quasilexicographical} from './quasi/quasilexicographical.js';\nexport {default as rangedcolexicographical} from './ranged/rangedcolexicographical.js';\nexport {default as rangedlexicographical} from './ranged/rangedlexicographical.js';\nexport {default as colexicographical} from './colexicographical.js';\nexport {default as lexicographical} from './lexicographical.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/lexicographical.js",
+    "content": "/**\n * Generates a binary lexicographical comparator\n * from a binary comparator.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order\n *\n * compare( a, b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n * compare should express an increasing ordering\n */\n\nexport default function lexicographical(compare) {\n\t/**\n\t * Compares 2 arrays a and b lexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tconst m = a.length;\n\t\tconst n = b.length;\n\n\t\tconst length = Math.min(m, n);\n\n\t\tfor (let i = 0; i < length; ++i) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn m - n;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/lexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "lexicographical",
+    "memberof": "src/lexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lexicographical.js~lexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/lexicographical.js",
+    "importStyle": "lexicographical",
+    "description": "Generates a binary lexicographical comparator\nfrom a binary comparator.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order\n\ncompare( a, b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b\n\ncompare should express an increasing ordering",
+    "lineNumber": 15,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/quasi/quasicolexicographical.js",
+    "content": "/**\n * Generates a binary quasicolexicographical comparator\n * from a binary comparator.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order#Quasi-lexicographic_order\n * https://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n *\n * compare( a, b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n * compare should express an increasing ordering\n */\n\nexport default function quasicolexicographical(compare) {\n\t/**\n\t * Compares 2 arrays a and b quasicolexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tconst m = a.length;\n\t\tconst n = b.length;\n\n\t\tif (m !== n) return m - n;\n\n\t\tconst length = Math.min(m, n);\n\n\t\tfor (let i = 1; i <= length; ++i) {\n\t\t\tconst d = compare(a[m - i], b[n - i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/quasi/quasicolexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "quasicolexicographical",
+    "memberof": "src/quasi/quasicolexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/quasi/quasicolexicographical.js~quasicolexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/quasi/quasicolexicographical.js",
+    "importStyle": "quasicolexicographical",
+    "description": "Generates a binary quasicolexicographical comparator\nfrom a binary comparator.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Quasi-lexicographic_order\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n\ncompare( a, b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b\n\ncompare should express an increasing ordering",
+    "lineNumber": 16,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/quasi/quasilexicographical.js",
+    "content": "/**\n * Generates a binary quasilexicographical comparator\n * from a binary comparator.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order#Quasi-lexicographic_order\n *\n * compare( a, b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n * compare should express an increasing ordering\n */\n\nexport default function quasilexicographical(compare) {\n\t/**\n\t * Compares 2 arrays a and b quasilexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tconst m = a.length;\n\t\tconst n = b.length;\n\n\t\tif (m !== n) return m - n;\n\n\t\tconst length = Math.min(m, n);\n\n\t\tfor (let i = 0; i < length; ++i) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/quasi/quasilexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "quasilexicographical",
+    "memberof": "src/quasi/quasilexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/quasi/quasilexicographical.js~quasilexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/quasi/quasilexicographical.js",
+    "importStyle": "quasilexicographical",
+    "description": "Generates a binary quasilexicographical comparator\nfrom a binary comparator.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Quasi-lexicographic_order\n\ncompare( a, b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b\n\ncompare should express an increasing ordering",
+    "lineNumber": 15,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/ranged/rangedcolexicographical.js",
+    "content": "/**\n * Generates a binary colexicographical comparator for ranges of arrays.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n *\n * compare( a , b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n */\n\nexport default function rangedcolexicographical(compare, begin, end) {\n\t/**\n\t * Compares the range [begin, end[ of 2 arrays a and b colexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tfor (let i = end; i-- > begin; ) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/ranged/rangedcolexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "rangedcolexicographical",
+    "memberof": "src/ranged/rangedcolexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ranged/rangedcolexicographical.js~rangedcolexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/ranged/rangedcolexicographical.js",
+    "importStyle": "rangedcolexicographical",
+    "description": "Generates a binary colexicographical comparator for ranges of arrays.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order#Colexicographic_order\n\ncompare( a , b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "begin",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "end",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/ranged/rangedlexicographical.js",
+    "content": "/**\n * Generates a binary lexicographical comparator for ranges of arrays.\n *\n * https://en.wikipedia.org/wiki/Lexicographical_order\n *\n * compare( a , b ) should always return\n *   - a negative value if a < b\n *   - a positive value if a > b\n *   - zero if a === b\n *\n */\n\nexport default function rangedlexicographical(compare, begin, end) {\n\t/**\n\t * Compares the range [begin, end[ of 2 arrays a and b lexicographically.\n\t */\n\n\treturn function (a, b) {\n\t\tfor (let i = begin; i < end; ++i) {\n\t\t\tconst d = compare(a[i], b[i]);\n\n\t\t\tif (d !== 0) return d;\n\t\t}\n\n\t\treturn 0;\n\t};\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/lex/lex/src/ranged/rangedlexicographical.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "rangedlexicographical",
+    "memberof": "src/ranged/rangedlexicographical.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ranged/rangedlexicographical.js~rangedlexicographical",
+    "access": "public",
+    "export": true,
+    "importPath": "@total-order/lex/src/ranged/rangedlexicographical.js",
+    "importStyle": "rangedlexicographical",
+    "description": "Generates a binary lexicographical comparator for ranges of arrays.\n\nhttps://en.wikipedia.org/wiki/Lexicographical_order\n\ncompare( a , b ) should always return\n  - a negative value if a < b\n  - a positive value if a > b\n  - zero if a === b",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "compare",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "begin",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "end",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":dango: [@total-order/lex](https://total-order.github.io/lex)\n==\n\nLexicographical comparison functions for JavaScript.\nSee [docs](https://total-order.github.io/lex/index.html).\n\n```js\nimport { reversed } from '@total-order/reversed' ;\nimport { lexicographical } from '@total-order/lex' ;\nimport { increasing } from '@total-order/primitive' ;\nlet order = reversed( lexicographical( increasing ) ) ;\norder( [ 1 , 1 ] , [ 1 , 2 ] )  >  0 ; // true\n```\n\n[![License](https://img.shields.io/github/license/total-order/lex.svg)](https://raw.githubusercontent.com/total-order/lex/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@total-order/lex.svg)](https://www.npmjs.org/package/@total-order/lex)\n[![Tests](https://img.shields.io/github/workflow/status/total-order/lex/ci:test?event=push&label=tests)](https://github.com/total-order/lex/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/total-order/lex.svg)](https://david-dm.org/total-order/lex)\n[![Dev dependencies](https://img.shields.io/david/dev/total-order/lex.svg)](https://david-dm.org/total-order/lex?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/total-order/lex.svg)](https://github.com/total-order/lex/issues)\n[![Downloads](https://img.shields.io/npm/dm/@total-order/lex.svg)](https://www.npmjs.org/package/@total-order/lex)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/total-order/lex.svg)](https://codeclimate.com/github/total-order/lex/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/total-order/lex.svg)](https://codeclimate.com/github/total-order/lex/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/total-order/lex/main.svg)](https://codecov.io/gh/total-order/lex)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/total-order/lex.svg)](https://codeclimate.com/github/total-order/lex/trends/technical_debt)\n[![Documentation](https://total-order.github.io/lex/badge.svg)](https://total-order.github.io/lex/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@total-order/lex)](https://bundlephobia.com/result?p=@total-order/lex)\n\n## :scroll: References\n\n  - https://en.wikipedia.org/wiki/Lexicographical_order\n",
+    "longname": "/home/runner/work/lex/lex/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@total-order/lex\",\n  \"description\": \"Lexicographical comparison functions for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://total-order.github.io/lex\",\n  \"repository\": {\n    \"url\": \"https://github.com/total-order/lex\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/total-order/lex/issues\"\n  },\n  \"keywords\": [\n    \"array\",\n    \"compare\",\n    \"lexicographical\",\n    \"order\",\n    \"total\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@babel/core\": \"7.13.15\",\n    \"@babel/preset-env\": \"7.13.15\",\n    \"@babel/register\": \"7.13.14\",\n    \"@commitlint/cli\": \"12.1.1\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"@total-order/primitive\": \"^0.0.2\",\n    \"@total-order/reversed\": \"^0.0.1\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.7.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"6.0.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.4.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.38.2\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": [\n        \"error\",\n        {\n          \"cases\": {\n            \"camelCase\": true,\n            \"pascalCase\": true\n          }\n        }\n      ]\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/lex/lex/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/lex/lex/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/lex/lex/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @total-order/lex\n```\n\n### npm\n```terminal\nnpm install @total-order/lex --save\n```\n\n### jspm\n```terminal\njspm install npm:@total-order/lex\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/lex/lex/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\nImport the library where needed\n```js\nconst lex = require( '@total-order/lex' ) ;\n// or\nimport * as lex from '@total-order/lex' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/lex/lex/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/total-order/lex/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
