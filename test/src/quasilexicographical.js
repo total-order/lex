@@ -4,46 +4,42 @@ import * as primitive from '@total-order/primitive';
 import {reversed} from '@total-order/reversed';
 import {quasilexicographical} from '../../src/index.js';
 
-import {format} from 'util';
+import {repr, rel} from './_fixtures.js';
 
 const increasing = quasilexicographical(primitive.increasing);
 const decreasing = reversed(increasing);
 
-function one(t, a, b, z) {
-	t.deepEqual(
-		Math.sign(increasing(a, b)),
-		z,
-		format('i %s %s', JSON.stringify(a), JSON.stringify(b)),
-	);
+const macro = (t, a, b, z) => {
+	t.deepEqual(Math.sign(increasing(a, b)), z, `i ${repr(a)} ${repr(b)}`);
 
 	t.deepEqual(
 		Math.sign(decreasing(a, b)),
 		z === 0 ? 0 : -z,
-		format('d %s %s', JSON.stringify(a), JSON.stringify(b)),
+		`d ${repr(a)} ${repr(b)}`,
 	);
-}
+};
 
-test('quasilexicographical', (t) => {
-	one(t, [], [], 0);
-	one(t, [], [0], -1);
-	one(t, [0], [], 1);
-	one(t, [0], [0], 0);
-	one(t, [0], [1], -1);
-	one(t, [1], [0], 1);
+macro.title = (title, a, b, z) => title ?? `${repr(a)} ${rel(z)} ${repr(b)}`;
 
-	one(t, [1, 2], [1, 2, 3], -1);
-	one(t, [1, 3], [1, 2, 3], -1);
-	one(t, [1, 4], [1, 2, 3], -1);
+test(macro, [], [], 0);
+test(macro, [], [0], -1);
+test(macro, [0], [], 1);
+test(macro, [0], [0], 0);
+test(macro, [0], [1], -1);
+test(macro, [1], [0], 1);
 
-	one(t, [0, 6, 7, 8, 9], [1, 6, 7, 8, 9], -1);
-	one(t, [1, 6, 7, 8, 9], [0, 6, 7, 8, 9], 1);
+test(macro, [1, 2], [1, 2, 3], -1);
+test(macro, [1, 3], [1, 2, 3], -1);
+test(macro, [1, 4], [1, 2, 3], -1);
 
-	one(t, [9, 8, 7, 6, 0], [9, 8, 7, 6, 1], -1);
-	one(t, [9, 8, 7, 6, 1], [9, 8, 7, 6, 0], 1);
+test(macro, [0, 6, 7, 8, 9], [1, 6, 7, 8, 9], -1);
+test(macro, [1, 6, 7, 8, 9], [0, 6, 7, 8, 9], 1);
 
-	one(t, [0, 6, 6, 6, 6], [1, 7, 7, 7, 7], -1);
-	one(t, [1, 6, 6, 6, 6], [0, 7, 7, 7, 7], 1);
+test(macro, [9, 8, 7, 6, 0], [9, 8, 7, 6, 1], -1);
+test(macro, [9, 8, 7, 6, 1], [9, 8, 7, 6, 0], 1);
 
-	one(t, [6, 6, 6, 6, 0], [7, 7, 7, 7, 1], -1);
-	one(t, [6, 6, 6, 6, 1], [7, 7, 7, 7, 0], -1);
-});
+test(macro, [0, 6, 6, 6, 6], [1, 7, 7, 7, 7], -1);
+test(macro, [1, 6, 6, 6, 6], [0, 7, 7, 7, 7], 1);
+
+test(macro, [6, 6, 6, 6, 0], [7, 7, 7, 7, 1], -1);
+test(macro, [6, 6, 6, 6, 1], [7, 7, 7, 7, 0], -1);
