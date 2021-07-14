@@ -2,7 +2,7 @@
 
 Import the library where needed
 ```js
-const lex = require( '@total-order/lex' ) ;
+const lex = await import( '@total-order/lex' ) ;
 // or
 import * as lex from '@total-order/lex' ;
 ```
