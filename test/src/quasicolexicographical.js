@@ -2,7 +2,9 @@ import test from 'ava';
 
 import * as primitive from '@total-order/primitive';
 import {reversed} from '@total-order/reversed';
+
 import {repr, rel} from './_fixtures.js';
+
 import {quasicolexicographical} from '#module';
 
 const increasing = quasicolexicographical(primitive.increasing);

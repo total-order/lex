@@ -1,6 +1,9 @@
 import test from 'ava';
+
 import * as primitive from '@total-order/primitive';
+
 import {repr, rel} from './_fixtures.js';
+
 import {rangedlexicographical} from '#module';
 
 const increasing = rangedlexicographical(primitive.increasing, 1, 6);

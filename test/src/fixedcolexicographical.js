@@ -1,7 +1,9 @@
 import test from 'ava';
 
 import * as primitive from '@total-order/primitive';
+
 import {repr, rel} from './_fixtures.js';
+
 import {fixedcolexicographical} from '#module';
 
 const increasing = fixedcolexicographical(primitive.increasing, 5);
