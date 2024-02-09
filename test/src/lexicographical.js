@@ -2,9 +2,8 @@ import test from 'ava';
 
 import * as primitive from '@total-order/primitive';
 import {reversed} from '@total-order/reversed';
-import {lexicographical} from '../../src/index.js';
-
 import {repr, rel} from './_fixtures.js';
+import {lexicographical} from '#module';
 
 const increasing = lexicographical(primitive.increasing);
 const decreasing = reversed(increasing);

@@ -14,7 +14,7 @@ order( [ 1 , 1 ] , [ 1 , 2 ] )  >  0 ; // true
 
 [![License](https://img.shields.io/github/license/total-order/lex.svg)](https://raw.githubusercontent.com/total-order/lex/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@total-order/lex.svg)](https://www.npmjs.org/package/@total-order/lex)
-[![Tests](https://img.shields.io/github/workflow/status/total-order/lex/ci:test?event=push&label=tests)](https://github.com/total-order/lex/actions/workflows/ci:test.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/total-order/lex/ci?event=push&label=tests)](https://github.com/total-order/lex/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/total-order/lex.svg)](https://github.com/total-order/lex/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/total-order/lex.svg)](https://github.com/total-order/lex/issues)
 [![Downloads](https://img.shields.io/npm/dm/@total-order/lex.svg)](https://www.npmjs.org/package/@total-order/lex)
